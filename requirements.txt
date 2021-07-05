@@ -1,0 +1,25 @@
+chromedriver-binary==91.0.4472.101.0
+packaging @ file:///private/tmp/sip--packaging-20210619-77867-j1uolo/packaging-20.9
+pyparsing==2.4.7
+PyQt3D==5.15.4
+PyQt5==5.15.4
+PyQt5-sip==12.9.0
+PyQt6==6.1.0
+PyQt6-3D==6.1.0
+PyQt6-Charts==6.1.0
+PyQt6-DataVisualization==6.1.0
+PyQt6-NetworkAuth==6.1.0
+PyQt6-sip==13.1.0
+PyQtChart==5.15.4
+PyQtDataVisualization==5.15.4
+PyQtNetworkAuth==5.15.4
+PyQtPurchasing==5.15.4
+PyQtWebEngine==5.15.4
+pywatchman==1.4.1
+QScintilla==2.12.1
+selenium==3.141.0
+sip==6.1.1
+tabulate==0.8.9
+TBB==0.2
+toml==0.10.2
+urllib3==1.26.6
